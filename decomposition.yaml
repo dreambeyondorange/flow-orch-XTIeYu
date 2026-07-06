@@ -1,0 +1,12 @@
+decomposition:
+  epic:
+    source: manual
+    id: null
+    title: Profile Epic
+  tasks:
+    - id: P-1
+      title: Scaffold schema
+      acceptance_criteria:
+        - migration exists
+  decomposed_at: 2026-06-08T00:00:00Z
+  decomposed_by: test
